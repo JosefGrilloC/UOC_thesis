@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+UNTPED2	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/UNTPED2_R1.fastq.gz	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/UNTPED2_R2.fastq.gz
+UNTPED9	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/UNTPED9_R1.fastq.gz	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/UNTPED9_R2.fastq.gz
+WEATPED9	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/WEATPED9_R1.fastq.gz	$HOME/Qiime2/16S_rRNA/Erni_Cassola_2019/WEATPED9_R2.fastq.gz
